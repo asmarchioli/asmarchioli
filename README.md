@@ -33,12 +33,6 @@ Eu sou um desenvolvedor apaixonado por tecnologia e inovação. Tenho experiênc
     </a>
 </div>
 
-## Contato
-
-- [LinkedIn](https://www.linkedin.com/in/alexandre-marchioli/)
-
-## Projetos
-
 - **[Projeto 1](#)**: Descrição breve do projeto 1.
 - **[Projeto 2](#)**: Descrição breve do projeto 2.
 
