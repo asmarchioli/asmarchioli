@@ -35,7 +35,3 @@ Eu sou um desenvolvedor apaixonado por tecnologia e inovação. Tenho experiênc
 
 - **[Projeto 1](#)**: Descrição breve do projeto 1.
 - **[Projeto 2](#)**: Descrição breve do projeto 2.
-
----
-
-Personalize este template conforme necessário. Boa sorte com o seu projeto! 🚀
