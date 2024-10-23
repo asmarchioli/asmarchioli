@@ -6,11 +6,14 @@
     </a>
 </div>
 
-## Sobre Mim
+## About Me
+Welcome to my profile. I'm Alexandre da Silva Marchioli, a programmer, writer, musician, and student of Data Science and Artificial Intelligence.
 
-Eu sou um desenvolvedor apaixonado por tecnologia e inovação. Tenho experiência em diversas linguagens de programação e frameworks. Acredito no poder da tecnologia para transformar vidas e adoro trabalhar em projetos desafiadores.
+I've studied various programming languages on my own and through courses, such as JavaScript, PHP, and Python, as well as HTML 5 and CSS. I've created automation projects with Python to reduce repetitive activities and save time. I've developed virtual robots (chatbots) for the "Discord" platform using Node.js.
 
-## Linguagens de Programações e Softwares
+I've never made [...CONTINUE...]
+
+## Programming Languages ​​and Softwares
 
 <div align="center">
     <a href="https://www.python.org/" target="_blank">
@@ -33,5 +36,5 @@ Eu sou um desenvolvedor apaixonado por tecnologia e inovação. Tenho experiênc
     </a>
 </div>
 
-- **[Projeto 1](#)**: Descrição breve do projeto 1.
-- **[Projeto 2](#)**: Descrição breve do projeto 2.
+- **[Project 1](#)**: Description of project 1.
+- **[Project 2](#)**: Description of project 2.
