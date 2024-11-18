@@ -11,7 +11,7 @@ Welcome to my profile. I'm Alexandre da Silva Marchioli, a programmer, writer, m
 
 I've studied various programming languages on my own and through courses, such as JavaScript, PHP, and Python, as well as HTML 5 and CSS. I've created automation projects with Python to reduce repetitive activities and save time. I've developed virtual robots (chatbots) for the "Discord" platform using Node.js.
 
-I've never made [...CONTINUE...]
+Currently, I am engaged in process automation and RPA projects using Python. Additionally, I develop dashboards with Power BI to facilitate the visualization of key data.
 
 ## Programming Languages ​​and Softwares
 
