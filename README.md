@@ -1,8 +1,14 @@
 # <div align="center">Alexandre da Silva Marchioli</div>
 
 <div align="center">
-    <a href="https://www.linkedin.com" target="_blank">
+    <a href="https://www.linkedin.com/in/alexandre-marchioli/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="40" height="40">
+    </a>
+    <a href="https://www.instagram.com/alexandre.marchioli/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" width="40" height="40">
+    </a>
+    <a href="https://api.whatsapp.com/send?phone=5543999102235" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="Whatsapp" width="40" height="40">
     </a>
 </div>
 
