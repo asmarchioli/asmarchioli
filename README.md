@@ -36,11 +36,14 @@ By integrating automation, data visualization, and communication solutions, I ai
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40">
     </a>
+    <a href="https://www.php.net/" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" width="40" height="40">
+    </a>
     <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
         <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Excel" width="40" height="40">
     </a>
-    <a href="https://www.php.net/" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" width="40" height="40">
+    <a href="https://www.microsoft.com/pt-br/power-platform/products/power-bi" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40">
     </a>
 </div>
 
