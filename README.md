@@ -2,7 +2,7 @@
 
 <div align="center">
     <a href="https://www.linkedin.com" target="_blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linkedin.svg" alt="LinkedIn" width="40" height="40">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="40" height="40">
     </a>
 </div>
 
