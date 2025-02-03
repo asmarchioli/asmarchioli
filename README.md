@@ -17,6 +17,8 @@ Welcome to my profile. I'm Alexandre da Silva Marchioli, a programmer, writer, m
 
 I study at the State University of Londrina in Brazil, where I was born. I plan to go to other countries to study and improve my programming skills and my English.
 
+I have extensive experience working in Human Resources, Administration, and Finance sectors. Throughout my career, I have consistently implemented automation processes using Python and AI to streamline and enhance my work. My projects reflect a commitment to innovation and efficiency, driving success through technological advancements.
+
 I've studied various programming languages on my own and through courses, such as JavaScript, PHP, and Python, as well as HTML 5 and CSS. I've created automation projects with Python to reduce repetitive activities and save time. I've developed virtual robots (chatbots) for the Discord platform using Node.js.
 
 Currently, I am engaged in process automation and RPA projects using Python. Additionally, I develop dashboards with Power BI to facilitate the visualization of key data. I also create chatbots for platforms such as Discord, WhatsApp, and others, enabling more efficient and interactive communication.
