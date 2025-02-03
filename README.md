@@ -47,6 +47,9 @@ By integrating automation, data visualization, and communication solutions, I ai
     <a href="https://www.microsoft.com/pt-br/power-platform/products/power-bi" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40">
     </a>
+    <a href="https://cplusplus.com/" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="Power BI" width="40" height="40">
+    </a>
 </div>
 
 - **[Future Project 1](#)**: CAZIO, a Discord RPG Bot with LLM, made in Python.
