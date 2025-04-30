@@ -52,4 +52,5 @@ By integrating automation, data visualization, and communication solutions, I ai
     </a>
 </div>
 
-- **[Future Project 1](#)**: CAZIO, a Discord RPG Bot with LLM, made in Python.
+- **[Cazio Discord Bot Project]((https://github.com/asmarchioli/CAZIO-Discord-RPG-Bot)**: CAZIO, a Discord RPG Bot made in Python for RPG servers.
+- **[Megumin LLM AI Discord Bot](https://github.com/asmarchioli/Megumin-Discord-Bot-LLM-AI)**: Megumin, a AI LLM made in Python for all servers.
