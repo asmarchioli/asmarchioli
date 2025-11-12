@@ -1,70 +1,83 @@
-# <div align="center">Alexandre da Silva Marchioli</div>
-
 <div align="center">
+  <h1>
+    Hello! 👋 I'm Alexandre da Silva Marchioli
+  </h1>
+  
+  <h4>
+    Data Science and AI Student | Python, Power BI, Automation (RPA) | Dashboards | Chatbots with LLM
+  </h4>
+
+  <p>
     <a href="https://www.linkedin.com/in/alexandre-marchioli/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="40" height="40">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="https://www.instagram.com/alexandre.marchioli/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" width="40" height="40">
+    <a href="mailto:alexandresilva.marchioli@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
     <a href="https://api.whatsapp.com/send?phone=5543999102235" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="Whatsapp" width="40" height="40">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
     </a>
+  </p>
 </div>
 
-## About Me
+---
 
-I am Alexandre da Silva Marchioli , a Data Science and Artificial Intelligence student at Universidade Estadual de Londrina (UEL). I am passionate about applying data technology to solve real-world problems and help companies make more intelligent decisions.
+## 👨‍💻 About Me
 
-Currently, I work as a Data Freelancer and a Data and Projects Intern. My practical experience includes developing Python-based automations , creating interactive dashboards in Power BI , and building chatbots integrated with LLMs like GPT and Gemini.
+I am Alexandre da Silva Marchioli, a Data Science and Artificial Intelligence student at Universidade Estadual de Londrina (UEL). I am passionate about applying data technology to solve real-world problems and help companies make more intelligent decisions.
 
-I bring a unique multidisciplinary perspective to my technical roles, with previous experience in the legal , financial , and Human Resources  sectors. This background strengthens my focus on results and my understanding of diverse business needs.
+Currently, I work as a Data Freelancer and a Data and Projects Intern. My practical experience includes developing Python-based automations, creating interactive dashboards in Power BI, and building chatbots integrated with LLMs like GPT and Gemini.
 
-My project experience includes:
+I bring a unique multidisciplinary perspective to my technical roles, with previous experience in the **legal**, **financial**, and **Human Resources** sectors. This background strengthens my focus on results and my understanding of diverse business needs.
 
-- Developing RPA (Robotic Process Automation) solutions to reduce repetitive administrative tasks.
+**My project experience includes:**
 
-- Automating financial and operational analyses using tools like Excel and Power BI.
+* Developing RPA (Robotic Process Automation) solutions to reduce repetitive administrative tasks.
+* Automating financial and operational analyses using tools like Excel and Power BI.
+* Creating chatbots for Discord using Python (Discord.py) integrated with the OpenAI (GPT) and Google (Gemini) APIs.
+* Analyzing data and managing databases with tools like MySQL and ERP systems.
 
-- Creating chatbots for Discord using Python (Discord.py) integrated with the OpenAI (GPT) and Google (Gemini) APIs.
+My core technical competencies include **Python**, **Power BI**, **MySQL**, **Java**, and **Spring Boot**.
 
-- Analyzing data and managing databases with tools like MySQL and ERP systems.
+I am actively seeking internship opportunities, freelance projects, or collaborative work in Data Analysis, Python Automation, Data Visualization with Power BI, and Applied AI (LLMs, NLP, APIs).
 
-My core technical competencies include Python , Power BI , MySQL , Java , and Spring Boot.
+---
 
-I am actively seeking internship opportunities, freelance projects, or collaborative work in Data Analysis , Python Automation , Data Visualization with Power BI , and Applied AI (LLMs, NLP, APIs).
-
-
-## Programming Languages ​​and Softwares
+## 📊 My GitHub Stats
 
 <div align="center">
-    <a href="https://www.python.org/" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40">
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="40" height="40">
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40">
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40">
-    </a>
-    <a href="https://www.php.net/" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" width="40" height="40">
-    </a>
-    <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Excel" width="40" height="40">
-    </a>
-    <a href="https://www.microsoft.com/pt-br/power-platform/products/power-bi" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40">
-    </a>
-    <a href="https://cplusplus.com/" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="Power BI" width="40" height="40">
-    </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asmarchioli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmarchioli&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-## Major Projects
+---
 
-- **[Cazio Discord Bot Project](https://github.com/asmarchioli/CAZIO-Discord-RPG-Bot)**: CAZIO, a Discord RPG Bot made in Python for RPG servers.
-- **[Megumin LLM AI Discord Bot](https://github.com/asmarchioli/Megumin-Discord-Bot-LLM-AI)**: Megumin, a AI LLM made in Python for all servers.
+## 🛠️ Technologies & Tools
+
+<div align="center" style="display: inline_block">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
+</div>
+
+---
+
+## 🚀 Major Projects
+
+<div align="center">
+  <a href="https://github.com/asmarchioli/CAZIO-Discord-RPG-Bot" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=asmarchioli&repo=CAZIO-Discord-RPG-Bot&theme=tokyonight" alt="CAZIO Discord RPG Bot">
+  </a>
+  <a href="https://github.com/asmarchioli/Megumin-Discord-Bot-LLM-AI" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=asmarchioli&repo=Megumin-Discord-Bot-LLM-AI&theme=tokyonight" alt="Megumin LLM AI Discord Bot">
+  </a>
+</div>
