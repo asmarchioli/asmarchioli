@@ -74,10 +74,10 @@ I am actively seeking internship opportunities, freelance projects, or collabora
 ## 🚀 Major Projects
 
 <div align="center">
-  <a href="https://github.com/asmarchioli/CAZIO-Discord-RPG-Bot" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=asmarchioli&repo=CAZIO-Discord-RPG-Bot&theme=tokyonight" alt="CAZIO Discord RPG Bot">
-  </a>
   <a href="https://github.com/asmarchioli/Megumin-Discord-Bot-LLM-AI" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=asmarchioli&repo=Megumin-Discord-Bot-LLM-AI&theme=tokyonight" alt="Megumin LLM AI Discord Bot">
+  </a>
+  <a href="https://github.com/asmarchioli/Implementacao-de-arvore-AVL---Estruturas-de-Dados-II-UEL-2025" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=asmarchioli&repo=Implementacao-de-arvore-AVL---Estruturas-de-Dados-II-UEL-2025&theme=tokyonight" alt="Implementação de Árvore AVL">
   </a>
 </div>
