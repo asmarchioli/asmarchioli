@@ -12,7 +12,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="mailto:alexandresilva.marchioli@gmail.com" target="_blank">
-      <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=asmarchioli&theme=tokyonight&hide_border=true&custom_title=Recent%20GitHub%20Activity"/>
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
     <a href="https://api.whatsapp.com/send?phone=5543999102235" target="_blank">
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
@@ -48,7 +48,7 @@ I am actively seeking internship opportunities, freelance projects, or collabora
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=asmarchioli&theme=tokyonight&hide_border=true"/>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=asmarchioli&theme=tokyonight&row=1&margin-w=15&margin-h=15" alt="GitHub Trophies">
+  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=asmarchioli&theme=tokyonight&hide_border=true&custom_title=Recent%20GitHub%20Activity"/>
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmarchioli&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
