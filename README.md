@@ -47,6 +47,8 @@ I am actively seeking internship opportunities, freelance projects, or collabora
 
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=asmarchioli&theme=tokyonight&hide_border=true"/>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=asmarchioli&theme=tokyonight&row=1&margin-w=15&margin-h=15" alt="GitHub Trophies">
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmarchioli&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
