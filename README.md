@@ -13,16 +13,28 @@
 </div>
 
 ## About Me
-Welcome to my profile. I'm Alexandre da Silva Marchioli, a programmer, writer, musician, and student of Data Science and Artificial Intelligence.
 
-I study at the State University of Londrina in Brazil, where I was born. I plan to go to other countries to study and improve my programming skills and my English.
+I am Alexandre da Silva Marchioli , a Data Science and Artificial Intelligence student at Universidade Estadual de Londrina (UEL). I am passionate about applying data technology to solve real-world problems and help companies make more intelligent decisions.
 
-I have extensive experience working in Human Resources, Administration, and Finance sectors. Throughout my career, I have consistently implemented automation processes using Python and AI to streamline and enhance my work. My projects reflect a commitment to innovation and efficiency, driving success through technological advancements.
+Currently, I work as a Data Freelancer and a Data and Projects Intern. My practical experience includes developing Python-based automations , creating interactive dashboards in Power BI , and building chatbots integrated with LLMs like GPT and Gemini.
 
-I've studied various programming languages on my own and through courses, such as JavaScript, PHP, and Python, as well as HTML 5 and CSS. I've created automation projects with Python to reduce repetitive activities and save time. I've developed virtual robots (chatbots) for the Discord platform using Node.js.
+I bring a unique multidisciplinary perspective to my technical roles, with previous experience in the legal , financial , and Human Resources  sectors. This background strengthens my focus on results and my understanding of diverse business needs.
 
-Currently, I am engaged in process automation and RPA projects using Python. Additionally, I develop dashboards with Power BI to facilitate the visualization of key data. I also create chatbots for platforms such as Discord, WhatsApp, and others, enabling more efficient and interactive communication.
-By integrating automation, data visualization, and communication solutions, I aim to optimize processes and enhance user interaction.
+My project experience includes:
+
+- Developing RPA (Robotic Process Automation) solutions to reduce repetitive administrative tasks.
+
+- Automating financial and operational analyses using tools like Excel and Power BI.
+
+- Creating chatbots for Discord using Python (Discord.py) integrated with the OpenAI (GPT) and Google (Gemini) APIs.
+
+- Analyzing data and managing databases with tools like MySQL and ERP systems.
+
+My core technical competencies include Python , Power BI , MySQL , Java , and Spring Boot.
+
+I am actively seeking internship opportunities, freelance projects, or collaborative work in Data Analysis , Python Automation , Data Visualization with Power BI , and Applied AI (LLMs, NLP, APIs).
+
+
 ## Programming Languages ​​and Softwares
 
 <div align="center">
