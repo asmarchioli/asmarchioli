@@ -46,7 +46,7 @@ I am actively seeking internship opportunities, freelance projects, or collabora
 ## 📊 My GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asmarchioli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=asmarchioli&theme=tokyonight&hide_border=true"/>
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmarchioli&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
